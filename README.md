@@ -62,7 +62,6 @@ Implemented and compared:
 - ZIP code search  
 - Developer & utility analysis  
 - Business recommendations  
-- Live Link : 
 - Live Link : https://solar-energy-appuction-clustering-jtjjappjkqehpvdcs32sjbw.streamlit.app/
 ---
 
